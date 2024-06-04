@@ -7,7 +7,7 @@ CORU is divided into Three challenges:
 
 - **Key Information Detection.**
 - **Large-Scale OCR Dataset**
-- **Item Information EXTRACTION**
+- **Item Information Extraction**
 ### Dataset Statistics
 
 | Category             | Training | Validation | Test  |
@@ -16,8 +16,19 @@ CORU is divided into Three challenges:
 | OCR                  | 21,000   | 4,500      | 4,500 |
 | IE                   |  7000    | 1500       | 1500  |
 
-
-
+## Download Links
+### Key Information Detection
+- **Training Set**:
+- **Validation Set**:
+- **Test Set**:
+### OCR Dataset
+- **Training Set**:
+- **Validation Set**:
+- **Test Set**:
+### Item Information Extraction
+- **Training Set**:
+- **Validation Set**:
+- **Test Set**:
 ## Citation
 
 If you find these codes or data useful, please consider citing our paper as:
