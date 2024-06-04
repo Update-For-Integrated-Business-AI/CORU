@@ -19,12 +19,13 @@ CORU is divided into Three challenges:
 
 Here are five examples from the dataset, showcasing the variety of receipts included:
 
-<img src="images/0cf392e3-e6bf-4bd7-85d5-7f91c73cdcaf.jpg" alt="Sample Image 1" width="200" height="300">
-<img src="images/0dccefa6-6928-499e-8aae-15c04d18cc94.jpg" alt="Sample Image 2" width="200" height="300">
-<img src="images/0dd4ada2-681e-42e7-b398-e093bc8b81c3.jpg" alt="Sample Image 3" width="200" height="300">
-<img src="images/0ef51dc7-4a0a-47e6-bc59-41f609d1c98d.jpg" alt="Sample Image 4" width="200" height="300">
-<img src="images/0f369dc1-1c5b-41b1-97bc-c9b94d53cd40.jpg" alt="Sample Image 5" width="200" height="300">
-<img src="images/0f43705d-fda1-4e25-beba-d6f7cbdb182e.jpg" alt="Sample Image 5" width="200" height="300">
+<img src="images/0cf392e3-e6bf-4bd7-85d5-7f91c73cdcaf.jpg" alt="Sample Image 1" width="200" height="300" align="left">
+<img src="images/0dccefa6-6928-499e-8aae-15c04d18cc94.jpg" alt="Sample Image 2" width="200" height="300" align="left">
+<img src="images/0dd4ada2-681e-42e7-b398-e093bc8b81c3.jpg" alt="Sample Image 3" width="200" height="300" align="left">
+<img src="images/0ef51dc7-4a0a-47e6-bc59-41f609d1c98d.jpg" alt="Sample Image 4" width="200" height="300" align="left">
+<img src="images/0f369dc1-1c5b-41b1-97bc-c9b94d53cd40.jpg" alt="Sample Image 5" width="200" height="300" align="left">
+<img src="images/0f43705d-fda1-4e25-beba-d6f7cbdb182e.jpg" alt="Sample Image 5" width="200" height="300" align="left">
+<br clear="left">
 
 ## Download Links
 ### Key Information Detection
