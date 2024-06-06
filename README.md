@@ -29,17 +29,17 @@ Here are five examples from the dataset, showcasing the variety of receipts incl
 
 ## Download Links
 ### Key Information Detection
-- **Training Set**:
-- **Validation Set**:
-- **Test Set**:
+- **Training Set**:  [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/Receipt/train.zip?download=true)
+- **Validation Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/Receipt/val.zip?download=true)
+- **Test Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/Receipt/test.zip?download=true)
 ### OCR Dataset
-- **Training Set**:
-- **Validation Set**:
-- **Test Set**:
+- **Training Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/OCR/train.zip?download=true)
+- **Validation Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/OCR/val.zip?download=true)
+- **Test Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/OCR/test.zip?download=true)
 ### Item Information Extraction
-- **Training Set**:
-- **Validation Set**:
-- **Test Set**:
+- **Training Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/IE/train.csv?download=true)
+- **Validation Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/IE/val.csv?download=true)
+- **Test Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/IE/test.csv?download=true)
 ## Citation
 
 If you find these codes or data useful, please consider citing our paper as:
