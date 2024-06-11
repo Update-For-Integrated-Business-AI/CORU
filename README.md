@@ -45,5 +45,12 @@ Here are five examples from the dataset, showcasing the variety of receipts incl
 If you find these codes or data useful, please consider citing our paper as:
 
 ```
-
+@misc{abdallah2024coru,
+    title={CORU: Comprehensive Post-OCR Parsing and Receipt Understanding Dataset},
+    author={Abdelrahman Abdallah and Mahmoud Abdalla and Mahmoud SalahEldin Kasem and Mohamed Mahmoud and Ibrahim Abdelhalim and Mohamed Elkasaby and Yasser ElBendary and Adam Jatowt},
+    year={2024},
+    eprint={2406.04493},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
 ```
