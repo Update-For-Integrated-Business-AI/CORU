@@ -28,7 +28,7 @@ Here are five examples from the dataset, showcasing the variety of receipts incl
 <br clear="left">
 
 ## Download Links
-### Key Information Detection
+### Object Detection
 - **Training Set**:  [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/Receipt/train.zip?download=true)
 - **Validation Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/Receipt/val.zip?download=true)
 - **Test Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/Receipt/test.zip?download=true)
