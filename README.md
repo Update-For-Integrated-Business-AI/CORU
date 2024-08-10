@@ -28,7 +28,7 @@ Here are five examples from the dataset, showcasing the variety of receipts incl
 <br clear="left">
 
 ## Download Links 
-### Object Detection
+### Key Information Detection
 - **Training Set**:  
 - **Validation Set**: 
 - **Test Set**: 
