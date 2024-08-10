@@ -27,7 +27,7 @@ Here are five examples from the dataset, showcasing the variety of receipts incl
 <img src="images/0f43705d-fda1-4e25-beba-d6f7cbdb182e.jpg" alt="Sample Image 5" width="200" height="300" align="left">
 <br clear="left">
 
-## Download Links
+## Download Links 
 ### Object Detection
 - **Training Set**:  [Download]()
 - **Validation Set**: [Download]()
