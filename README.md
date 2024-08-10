@@ -29,9 +29,9 @@ Here are five examples from the dataset, showcasing the variety of receipts incl
 
 ## Download Links 
 ### Object Detection
-- **Training Set**:  [Download]()
-- **Validation Set**: [Download]()
-- **Test Set**: [Download]()
+- **Training Set**:  
+- **Validation Set**: 
+- **Test Set**: 
 ### OCR Dataset
 - **Training Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/OCR/train.zip?download=true)
 - **Validation Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/OCR/val.zip?download=true)
