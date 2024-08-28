@@ -30,7 +30,7 @@ Here are five examples from the dataset, showcasing the variety of receipts incl
 ## Download Links 
 ### Key Information Detection
 - **We  will continue Uploading the updated receipt.**
-- **Training Set**:  [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/Receipt/train.zip?download=true) **(⚠️ Note: This link was updated on August 14, 2024, to include receipts with redacted PII.)**
+- **Training Set**:  [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/Receipt/train.zip?download=true) **(⚠️ Note: This link was updated on August 28, 2024, to include receipts with redacted PII.)**
 - **Validation Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/Receipt/val.zip?download=true) **(⚠️ Note: This link was updated on August 11, 2024, to include receipts with redacted PII.)**
 - **Test Set**: [Download](https://huggingface.co/datasets/abdoelsayed/CORU/resolve/main/Receipt/test.zip?download=true) **(⚠️ Note: This link was updated on August 14, 2024, to include receipts with redacted PII.)**
 ### OCR Dataset
