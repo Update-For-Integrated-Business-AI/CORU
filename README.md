@@ -6,7 +6,6 @@
 
 ## 🔥 News
 - **[2024]** ReceiptSense dataset is now publicly available!
-- **[2024]** Paper accepted and published
 
 ## 📖 Abstract
 
