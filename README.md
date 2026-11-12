@@ -2,8 +2,6 @@
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2406.04493)
 [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/abdoelsayed/CORU)
-[![License](https://img.shields.io/badge/License-MIT-blue)]()
-
 ## 🔥 News
 - **[2024]** ReceiptSense dataset is now publicly available!
 
@@ -222,9 +220,7 @@ If you find ReceiptSense useful for your research, please consider citing our pa
 soon
 ```
 
-## 📄 License
 
-This dataset is released under the MIT License. See [LICENSE](LICENSE) file for details.
 
 ## 🔗 Links
 
