@@ -227,13 +227,7 @@ ReceiptSense/
 If you find ReceiptSense useful for your research, please consider citing our paper:
 
 ```bibtex
-@article{abdallah2024receiptsense,
-    title={ReceiptSense: Beyond Traditional OCR - A Dataset for Receipt Understanding},
-    author={Abdelrahman Abdallah and Mahmoud Abdalla and Mahmoud SalahEldin Kasem and Mohamed Mahmoud and Ibrahim Abdelhalim and Mohamed Elkasaby and Yasser Elbendary and Adam Jatowt},
-    year={2024},
-    journal={ACM Conference Proceedings},
-    note={Comprehensive multilingual receipt understanding dataset}
-}
+soon
 ```
 
 ## 📄 License
