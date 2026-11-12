@@ -213,14 +213,6 @@ ReceiptSense/
 - Privacy protocols strictly followed during data collection
 - Independent verification and cross-checking procedures
 
-## 👥 Authors
-
-**Abdelrahman Abdallah¹**, **Mahmoud Abdalla²**, **Mahmoud SalahEldin Kasem²**, **Mohamed Mahmoud²**, **Ibrahim Abdelhalim³**, **Mohamed Elkasaby⁴**, **Yasser Elbendary⁴**, **Adam Jatowt¹**
-
-¹University of Innsbruck, Innsbruck, Tyrol, Austria  
-²Chungbuk National University, Cheongju, Republic of Korea  
-³University of Louisville, Louisville, USA  
-⁴DISCO, Cairo, Egypt
 
 ## 📚 Citation
 
